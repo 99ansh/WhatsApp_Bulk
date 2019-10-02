@@ -1,0 +1,4 @@
+1 - pip3 install selenium
+2 - sudo apt-get install python3-pyqt4
+3 - check for urllib
+4 - download the chrome webdriver from : https://chromedriver.chromium.org/home
